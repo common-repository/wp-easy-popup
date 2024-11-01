@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Popup 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-01 15:18+0530\n"
+"PO-Revision-Date: 2015-01-01 15:18+0530\n"
+"Last-Translator: Rahul Kumawat <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/langtest/wp-content/plugins/\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: wp-easy-popup\n"
+
+
+msgid "Popup Display Page Type"
+msgstr "Попуп Екран Страница Тип"
+
+
+msgid "Background opacity"
+msgstr "Позадина непрозрачност"
+
+
+msgid "Background Color"
+msgstr "Боја позадине"
+
+
+msgid "Text color"
+msgstr "Боја текста"
+
+
+msgid "Box width"
+msgstr "бок ширина"
+
+
+msgid "Popup Timeout"
+msgstr "попуп Тимеоут"
+
+
+msgid "Start Date"
+msgstr "Старт Дате"
+
+
+msgid "Expire Date"
+msgstr "Истиче"
+
+
+msgid "Popup Display Status"
+msgstr "Попуп Приказ статус"
+
+
+msgid "Please select your popup display status. (Select No if you want to hide the popup )"
+msgstr "Изаберите своју попуп екрана статус . ( Изаберите Не ако желите да сакријете попуп)"
+
+msgid "Leave at 0 for no background. Max value is 1"
+msgstr "Оставите на 0 без икакве позадине . Мак вредност је 1"
+
+msgid "Enter your popup window width in px. (Ex: 500)."
+msgstr "Унесите своју попуп прозор у ширину пк . ( Ек: 500) ."
+
+msgid "Enter your popup window timeout in millisecond. (Ex: 3000). "
+msgstr "Унесите своју попуп прозор тајмаут у милисекунди . ( Ек : 3000 ) ."
+
+msgid "Please enter popup display start date in this format MM/DD/YYYY , 00/00/0000 : Is equal to no min date."
+msgstr "Молимо вас да унесете попуп почетка дисплеј датум у овом формату ММ / ДД / ИИИИ , 00/00/0000 : Да ли је једнак без датума мин ."
+
+msgid "Please enter the expiration date in this format MM/DD/YYYY ,12/31/9999 : Is equal to no expire."
+msgstr "Молимо Вас да унесете датум истека у овом формату ММ / ДД / ИИИИ , 12/31/9999 : Да ли је једнак без истећи ."
+
